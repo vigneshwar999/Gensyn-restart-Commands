@@ -18,3 +18,5 @@ sudo swapon /swapfile
 swapon --show
 
 ./run_rl_swarm.sh
+
+cc
